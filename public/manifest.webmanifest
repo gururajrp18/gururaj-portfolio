@@ -1,0 +1,19 @@
+
+{
+  "name": "Gururaj RP - Digital Portfolio",
+  "short_name": "Gururaj RP",
+  "description": "Personal portfolio of Gururaj RP, Aspiring AI Engineer and Full Stack Developer.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090908",
+  "theme_color": "#090908",
+  "icons": [
+    {
+      "src": "/icons.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
